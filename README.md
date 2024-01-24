@@ -1,4 +1,4 @@
-![Logo](images/logo.webp)
+![Logo](./images/logo.png)
 # EasyInvoice
 
 EasyInvoice ist ein Python-basiertes Tool, das ein Command-Line-Interface (CLI) bietet, um PDF-Rechnungen zu generieren und auszufüllen. Es ermöglicht das Ausfüllen von PDF-Rechnungsvorlagen mit benutzerdefinierten Werten und kann für einzelne oder mehrere Monate (bis zu einem Jahr) Rechnungen erstellen.
