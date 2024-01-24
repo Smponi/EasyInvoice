@@ -5,7 +5,7 @@
 ./output/
 
 #Configs
-*,json
+*.json
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
